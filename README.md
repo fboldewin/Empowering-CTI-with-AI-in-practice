@@ -1,4 +1,4 @@
-# Empowering-CTI-with-AI-in-practice
+# Empowering CTI with AI in practice
 
 <img src="https://github.com/fboldewin/Empowering-CTI-with-AI-in-practice/blob/main/Titel.png" height="272" width="483">
 
