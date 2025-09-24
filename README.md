@@ -2,7 +2,7 @@
 
 <img src="https://github.com/fboldewin/Empowering-CTI-with-AI-in-practice/blob/main/Titel.png" height="272" width="483">
 
-This presentation is the result of my personal learning journey on AI and RAG applications, which I worked on for two weeks in fall 2024.
+This presentation is the result of my personal learning journey on AI and RAG applications, a 2 weeks project in fall 2024.
 I was curious to find out how AI can help me to complete tasks faster and more efficiently in cyber threat intelligence analysis.
 
 For this purpose, I developed four use cases.
